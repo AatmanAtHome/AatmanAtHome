@@ -1,6 +1,6 @@
 ### Hello there 👋
 A Dev which doesn't know how to code
-- meet me at discord Aatman#0410
+meet me at discord Aatman#0410
 
 <!--
 **AatmanDev/AatmanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
