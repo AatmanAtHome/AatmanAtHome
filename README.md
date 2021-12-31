@@ -2,5 +2,6 @@
 A Dev which doesn't know how to code
 meet me at 
 
-## Discord : Aatman#0410
+## Discord : @FBI cat#2873
+## twitter : @Aatman0
 
